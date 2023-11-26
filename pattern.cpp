@@ -1,4 +1,4 @@
-#include<iostream>
+#include<iostream>//pattern
 using namespace std;
 int main(){
 int i; int k; int j;
